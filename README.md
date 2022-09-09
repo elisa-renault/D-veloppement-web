@@ -1,6 +1,6 @@
-# Développement web
+# Développement web
 
-## Introduction
+## Introduction
 
 Faire un site dynamique de A à Z
 
@@ -16,13 +16,13 @@ Puis node.js
 
 Déploiment
 
-## Liens
+## Liens
 
 [Git - Documentation](https://git-scm.com/docs)
 
 [Use SSH keys to communicate with GitLab | GitLab](https://docs.gitlab.com/ee/user/ssh.html)
 
-## Outils
+## Outils
 
 Mozilla : F12 ou CTRL+MAJ+I pour ouvrir la console de développement
 
@@ -37,8 +37,7 @@ Visual Studio Code
 3. Cochez la case Extensions de noms de fichiers.
 4. Vous devriez alors pouvoir voir les extensions de tous les fichiers.
 
-- [ ] Git
-  
+## Git
 
 Compte GitHub
 
@@ -70,9 +69,8 @@ Push
 
 Merge
 
-- [ ] HTML
+## Structure HTML
   
-
 Créer le fichier index.html (convention, les serveurs sont programmés pour renvoyer index par défaut)
 
 Premières balises : h1, h2, p
@@ -80,3 +78,5 @@ Premières balises : h1, h2, p
 Visualiser le rendu
 
 Une bonne structure de site web c'est essentiel : il faut que le site soit compréhensible sans design. C'est la base de ce qu'on appelle le design responsive (réactif) qui signifie avoir un site accessible. La priorité d'un site c'est bien sûr de véhiculer l'information qui doit être véhiculée, mais c'est aussi de la véhiculer de façon accessible à tous. On doit donc penser à ceux qui accèdent au site sur différents appareils, ou avec des handicaps. Pour le SEO (Search Engine Optimisation) on doit aussi penser à Google qui dissecte le code pour trouver les informations à afficher dans la recherche. Plus c'est facile pour Google, plus il met le site en haut des résultats. Grosso modo.
+
+## Structure CSS

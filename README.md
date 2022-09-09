@@ -93,7 +93,7 @@ Balise head
 
 Elements qui ne sont pas visibles dans la page
 
-Meta charset utf-8, title
+Meta charset utf-8, title, link
 
 Balise body
 
@@ -105,6 +105,28 @@ Images => attribut alt (texte alternatif)
 
 Créer une autre page et les lier
 
-Liens
+Liens internes et externes
+
+Elements block et inline
+
+Indentation
+
+Balises communes
+
+Balises de structure, listes, formulaires, texte et conteneurs
+
+Commentaires
 
 ## Structure CSS
+
+Les trois façons d'intégrer du CSS : dans la balise, dans le head, dans un fichier externe
+
+Link un fichier externe
+
+Sélectionner des éléments HTML dans le CSS : par balise, par classe, par ID, par attribut, etc.
+
+Changer les couleurs de fond, de texte.
+
+Changer les tailles.
+
+

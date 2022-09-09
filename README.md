@@ -22,6 +22,10 @@ Déploiment
 
 [Use SSH keys to communicate with GitLab | GitLab](https://docs.gitlab.com/ee/user/ssh.html)
 
+[Commencer avec le HTML - Apprendre le développement web | MDN](https://developer.mozilla.org/fr/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+
+[Codepen](https://codepen.io/)
+
 ## Outils
 
 Mozilla : F12 ou CTRL+MAJ+I pour ouvrir la console de développement
@@ -78,5 +82,29 @@ Premières balises : h1, h2, p
 Visualiser le rendu
 
 Une bonne structure de site web c'est essentiel : il faut que le site soit compréhensible sans design. C'est la base de ce qu'on appelle le design responsive (réactif) qui signifie avoir un site accessible. La priorité d'un site c'est bien sûr de véhiculer l'information qui doit être véhiculée, mais c'est aussi de la véhiculer de façon accessible à tous. On doit donc penser à ceux qui accèdent au site sur différents appareils, ou avec des handicaps. Pour le SEO (Search Engine Optimisation) on doit aussi penser à Google qui dissecte le code pour trouver les informations à afficher dans la recherche. Plus c'est facile pour Google, plus il met le site en haut des résultats. Grosso modo.
+
+Balise ouvrante et fermante vs élément vide
+
+Déclarer qu'on fait du bon HTML avec la balise DOCTYPE
+
+Balise html
+
+Balise head
+
+Elements qui ne sont pas visibles dans la page
+
+Meta charset utf-8, title
+
+Balise body
+
+Les attributs
+
+ID et class
+
+Images => attribut alt (texte alternatif)
+
+Créer une autre page et les lier
+
+Liens
 
 ## Structure CSS
